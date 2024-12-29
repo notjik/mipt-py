@@ -1,16 +1,12 @@
-import re
 from sys import stdin
-from collections import Counter
 
-n = int(input().strip())
-lines = [s.strip().lower() for s in stdin]
+trees = {tuple(map(int, s.split())) for s in stdin}
 
-words = Counter()
+res = float('inf')
+for x1, y1 in trees:
+    for x3, y3 in trees:
+        if (x3, y1) in trees and (x1, y3) in trees:
+            s = abs(x3 - x1) * abs(y3 - y1)
+            res = min(res, s) if s != 0 else res
 
-for line in lines:
-    found_words = re.findall(r'[a-zA-Z]+', line)
-    for word in found_words:
-        words[word] += 1
-
-output_words = sorted(words.items(), key=lambda x: (-x[1], x[0]))[:n]
-print(' '.join(i[0] for i in output_words))
+print(res if res != float('inf') else 0)
