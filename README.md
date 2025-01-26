@@ -2,17 +2,17 @@
 
 ## Лекции
 
-1. [Intoduction](lectures/Lecture01)
-2. [Loops, Containers, String, Dicts, Sets, Collections.](lectures/Lecture02)
-3. [Functions and Strings](lectures/Lecture03)
-4. [OOP](lectures/Lecture04)
-5. [Unittest](lectures/Lecture05)
-6. [Web & Flask](lectures/Lecture06)
-7. [Scrapping](lectures/Lecture07)
-8. [Databases & SQL](lectures/Lecture08)
-9. [Numpy](lectures/Lecture09)
-10. [Pandas](lectures/Lecture10)
-11. [Matpoltlib, Seaborn](lectures/Lecture11/)
+1. [Intoduction](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture01)
+2. [Loops, Containers, String, Dicts, Sets, Collections.](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture02)
+3. [Functions and Strings](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture03)
+4. [OOP](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture04)
+5. [Unittest](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture05)
+6. [Web & Flask](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture06)
+7. [Scrapping](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture07)
+8. [Databases & SQL](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture08)
+9. [Numpy](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture09)
+10. [Pandas](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture10)
+11. [Matpoltlib, Seaborn](https://github.com/chupolino17/PythonCourse-2024/tree/b600f20dfa8bdbddd55e5054e671cf933d5ba3a1/Lecture11/)
 
 ## Контесты
 
